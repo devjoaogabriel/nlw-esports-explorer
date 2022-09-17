@@ -18,7 +18,7 @@ body {
 
 body {
     font-size: 1.6rem;
-    background: #121214 url(/assets/img/bg.jpg) no-repeat;
+    background: #121214 url(../img/bg.jpg) no-repeat;
     background-size: 100% auto;
     font-family: 'Inter', sans-serif;
     line-height: 160%;
@@ -32,16 +32,16 @@ ul {
     margin-top: 2.4rem;
 }
 
-/* ::-webkit-scrollbar {
-    width: 8px;
+::-webkit-scrollbar {
+    width: 6px;
 }
 ::-webkit-scrollbar-track {
-    background: #D7D5FF;
+    background: #121214 ;
 }
 ::-webkit-scrollbar-thumb {
     border-radius: 5px;
-    background-color: #9d98fd;
-} */
+    background-color: #535096;
+}
 
 header {
     margin-top: 3.2rem;
@@ -75,10 +75,6 @@ section ul li:hover {
 section ul li {
     cursor: pointer;
     transition: transform 0.3s;
-}
-
-main * {
-    /* border: 0.1rem solid white; */
 }
 
 main {
