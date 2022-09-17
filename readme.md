@@ -14,6 +14,6 @@ Projeto contruido do evento Next Level Week da RocketSeat.
 - CSS
 - Git e GitHub
 
-## 🧡 Contato 
+## 🧡 Contato:
 
 joao.gabrielun24@gmail.com
