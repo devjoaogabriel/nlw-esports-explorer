@@ -1,4 +1,4 @@
-# NLW E-sSports
+# NLW E-eSports
 
 ![preview](./.github/preview.jpg)
 
